@@ -44,7 +44,7 @@ public class CountOccurance {
         int res=ocurrance(array, target);
 
         System.out.println("This number "+target+" is occuraning for "+res+" Times");
-
+        //hello this is a new feature ..
     }    
     
 }
